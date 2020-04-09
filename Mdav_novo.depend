@@ -1,0 +1,432 @@
+# depslib dependency file v1.0
+1406814186 source:c:\users\tales\desktop\mdav_novo\cluster.cpp
+	"cluster.h"
+
+1406910036 "
+
+1406899049 c:\users\tales\desktop\mdav_novo\cluster.h
+	<list>
+	<vector>
+
+1406862970 
+
+1407359402 source:c:\users\tales\desktop\mdav_novo\instancia.cpp
+	"instancia.h"
+	<fstream>
+	<list>
+	<vector>
+	"quicksort.h"
+	<iostream>
+	<algorithm>
+
+1407732998 >
+
+1407363190 c:\users\tales\desktop\mdav_novo\instancia.h
+	<list>
+	"atributo.h"
+
+1407541104 h"
+
+1406815234 c:\users\tales\desktop\mdav_novo\quicksort.h
+	<vector>
+
+1407357098 source:c:\users\tales\desktop\mdav_novo\main.cpp
+	<iostream>
+	<ctime>
+	"instancia.h"
+	"mdav.h"
+	"mdav1.h"
+	"mdav2.h"
+	"mdav3.h"
+
+1407262456 source:c:\users\tales\desktop\mdav_novo\mdav.cpp
+	"mdav.h"
+	<list>
+	<iostream>
+	<cmath>
+	"cluster.h"
+
+1406899236 c:\users\tales\desktop\mdav_novo\mdav.h
+	"instancia.h"
+	"cluster.h"
+
+1406852170 source:c:\users\tales\desktop\mdav_novo\quicksort.cpp
+	"quicksort.h"
+	<iostream>
+
+1407263149 c:\users\tales\desktop\mdav_novo\mdav1.h
+	"cluster.h"
+	"instancia.h"
+
+1407274782 .h"
+
+1407215857 source:c:\users\tales\desktop\mdav_novo\mdav1.cpp
+	"mdav1.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407263982 c:\users\tales\desktop\mdav_novo\mdav2.h
+	"cluster.h"
+	"instancia.h"
+
+1407293437 source:c:\users\tales\desktop\mdav_novo\mdav2.cpp
+	"mdav2.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407356816 c:\users\tales\desktop\mdav_novo\atributo.h
+	<list>
+	<vector>
+
+1407356630 source:c:\users\tales\desktop\mdav_novo\atributo.cpp
+	"atributo.h"
+
+1407357098 c:\users\tales\desktop\mdav_novo\mdav3.h
+	"cluster.h"
+	"instancia.h"
+
+1407363278 source:c:\users\tales\desktop\mdav_novo\mdav3.cpp
+	"mdav3.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407356630 source:/home/tales/workspace/Mdav_novo/atributo.cpp
+	"atributo.h"
+
+1407356816 /home/tales/workspace/Mdav_novo/atributo.h
+	<list>
+	<vector>
+
+1406814186 source:/home/tales/workspace/Mdav_novo/cluster.cpp
+	"cluster.h"
+
+1406899049 /home/tales/workspace/Mdav_novo/cluster.h
+	<list>
+	<vector>
+
+1407357098 source:/home/tales/workspace/Mdav_novo/main.cpp
+	<iostream>
+	<ctime>
+	"instancia.h"
+	"mdav.h"
+	"mdav1.h"
+	"mdav2.h"
+	"mdav3.h"
+
+1407385422 /home/tales/workspace/Mdav_novo/instancia.h
+	<list>
+	<vector>
+	"atributo.h"
+
+1406899236 /home/tales/workspace/Mdav_novo/mdav.h
+	"instancia.h"
+	"cluster.h"
+
+1407263149 /home/tales/workspace/Mdav_novo/mdav1.h
+	"cluster.h"
+	"instancia.h"
+
+1407263982 /home/tales/workspace/Mdav_novo/mdav2.h
+	"cluster.h"
+	"instancia.h"
+
+1407385632 /home/tales/workspace/Mdav_novo/mdav3.h
+	"cluster.h"
+	"instancia.h"
+
+1407262456 source:/home/tales/workspace/Mdav_novo/mdav.cpp
+	"mdav.h"
+	<list>
+	<iostream>
+	<cmath>
+	"cluster.h"
+
+1407215857 source:/home/tales/workspace/Mdav_novo/mdav1.cpp
+	"mdav1.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407293437 source:/home/tales/workspace/Mdav_novo/mdav2.cpp
+	"mdav2.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407363278 source:/home/tales/workspace/Mdav_novo/mdav3.cpp
+	"mdav3.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1406852170 source:/home/tales/workspace/Mdav_novo/quicksort.cpp
+	"quicksort.h"
+	<iostream>
+
+1406815234 /home/tales/workspace/Mdav_novo/quicksort.h
+	<vector>
+
+1407384244 source:/home/tales/workspace/Mdav_novo/instancia.cpp
+	"instancia.h"
+	<fstream>
+	<list>
+	<vector>
+	"quicksort.h"
+	<iostream>
+	<algorithm>
+
+1407356630 source:c:\users\tales\desktop\mdav_novo2\atributo.cpp
+	"atributo.h"
+
+1407530168 c:\users\tales\desktop\mdav_novo2\atributo.h
+	<list>
+	<vector>
+
+1406814186 source:c:\users\tales\desktop\mdav_novo2\cluster.cpp
+	"cluster.h"
+
+1407530551 c:\users\tales\desktop\mdav_novo2\cluster.h
+	<list>
+	<vector>
+
+1407722199 source:c:\users\tales\desktop\mdav_novo2\instancia.cpp
+	"instancia.h"
+	<fstream>
+	"quicksort.h"
+	<iostream>
+	<algorithm>
+
+1407385422 c:\users\tales\desktop\mdav_novo2\instancia.h
+	<list>
+	<vector>
+	"atributo.h"
+
+1406815234 c:\users\tales\desktop\mdav_novo2\quicksort.h
+	<vector>
+
+1407723563 source:c:\users\tales\desktop\mdav_novo2\main.cpp
+	<iostream>
+	<ctime>
+	"instancia.h"
+	"mdav.h"
+	"mdav1.h"
+	"mdav2.h"
+	"mdav3.h"
+
+1406899236 c:\users\tales\desktop\mdav_novo2\mdav.h
+	"instancia.h"
+	"cluster.h"
+
+1407263150 c:\users\tales\desktop\mdav_novo2\mdav1.h
+	"cluster.h"
+	"instancia.h"
+
+1407263982 c:\users\tales\desktop\mdav_novo2\mdav2.h
+	"cluster.h"
+	"instancia.h"
+
+1407530304 c:\users\tales\desktop\mdav_novo2\mdav3.h
+	"cluster.h"
+	"instancia.h"
+	"atributo.h"
+
+1407262456 source:c:\users\tales\desktop\mdav_novo2\mdav.cpp
+	"mdav.h"
+	<list>
+	<iostream>
+	<cmath>
+	"cluster.h"
+
+1407215858 source:c:\users\tales\desktop\mdav_novo2\mdav1.cpp
+	"mdav1.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407293438 source:c:\users\tales\desktop\mdav_novo2\mdav2.cpp
+	"mdav2.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407723725 source:c:\users\tales\desktop\mdav_novo2\mdav3.cpp
+	"mdav3.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1406852170 source:c:\users\tales\desktop\mdav_novo2\quicksort.cpp
+	"quicksort.h"
+	<iostream>
+
+1407367430 source:d:\doutorado\microagregação\codigo tales\atributo.cpp
+	"atributo.h"
+
+1407540968 d:\doutorado\microagregação\codigo tales\atributo.h
+	<list>
+	<vector>
+
+1406824986 source:d:\doutorado\microagregação\codigo tales\cluster.cpp
+	"cluster.h"
+
+1407541350 d:\doutorado\microagregação\codigo tales\cluster.h
+	<list>
+	<vector>
+
+1407732998 source:d:\doutorado\microagregação\codigo tales\instancia.cpp
+	"instancia.h"
+	<fstream>
+	"quicksort.h"
+	<iostream>
+	<algorithm>
+
+1407396222 d:\doutorado\microagregação\codigo tales\instancia.h
+	<list>
+	<vector>
+	"atributo.h"
+
+1406826034 d:\doutorado\microagregação\codigo tales\quicksort.h
+	<vector>
+
+1407273256 source:d:\doutorado\microagregação\codigo tales\mdav.cpp
+	"mdav.h"
+	<list>
+	<iostream>
+	<cmath>
+	"cluster.h"
+
+1406910036 d:\doutorado\microagregação\codigo tales\mdav.h
+	"instancia.h"
+	"cluster.h"
+
+1407226658 source:d:\doutorado\microagregação\codigo tales\mdav1.cpp
+	"mdav1.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407273950 d:\doutorado\microagregação\codigo tales\mdav1.h
+	"cluster.h"
+	"instancia.h"
+
+1407304238 source:d:\doutorado\microagregação\codigo tales\mdav2.cpp
+	"mdav2.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407274782 d:\doutorado\microagregação\codigo tales\mdav2.h
+	"cluster.h"
+	"instancia.h"
+
+1407734524 source:d:\doutorado\microagregação\codigo tales\mdav3.cpp
+	"mdav3.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407541104 d:\doutorado\microagregação\codigo tales\mdav3.h
+	"cluster.h"
+	"instancia.h"
+	"atributo.h"
+
+1406862970 source:d:\doutorado\microagregação\codigo tales\quicksort.cpp
+	"quicksort.h"
+	<iostream>
+
+1407796204 source:d:\doutorado\microagregação\codigo tales\main.cpp
+	<iostream>
+	<ctime>
+	"instancia.h"
+	"mdav.h"
+	"mdav1.h"
+	"mdav2.h"
+	"mdav3.h"
+
+1407367430 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/atributo.cpp
+	"atributo.h"
+
+1407540968 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/atributo.h
+	<list>
+	<vector>
+
+1406824986 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/cluster.cpp
+	"cluster.h"
+
+1407541350 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/cluster.h
+	<list>
+	<vector>
+
+1407732998 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/instancia.cpp
+	"instancia.h"
+	<fstream>
+	"quicksort.h"
+	<iostream>
+	<algorithm>
+
+1407396222 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/instancia.h
+	<list>
+	<vector>
+	"atributo.h"
+
+1406826034 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/quicksort.h
+	<vector>
+
+1407796204 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/main.cpp
+	<iostream>
+	<ctime>
+	"instancia.h"
+	"mdav.h"
+	"mdav1.h"
+	"mdav2.h"
+	"mdav3.h"
+
+1406910036 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav.h
+	"instancia.h"
+	"cluster.h"
+
+1407273950 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav1.h
+	"cluster.h"
+	"instancia.h"
+
+1407274782 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav2.h
+	"cluster.h"
+	"instancia.h"
+
+1407541104 /media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav3.h
+	"cluster.h"
+	"instancia.h"
+	"atributo.h"
+
+1407273256 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav.cpp
+	"mdav.h"
+	<list>
+	<iostream>
+	<cmath>
+	"cluster.h"
+
+1407226658 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav1.cpp
+	"mdav1.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407304238 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav2.cpp
+	"mdav2.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1407734524 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/mdav3.cpp
+	"mdav3.h"
+	<list>
+	"cluster.h"
+	<iostream>
+
+1406862970 source:/media/5716691E68C98177/Doutorado/MicroagregaÃ§Ã£o/Codigo tales/quicksort.cpp
+	"quicksort.h"
+	<iostream>
+
